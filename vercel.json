@@ -1,6 +1,6 @@
 
 {
   "rewrites": [
-    { "source": "/test", "destination": "/pages/test.js" }
+    { "source": "/order", "destination": "/pages/order.js" }
   ]
 }
